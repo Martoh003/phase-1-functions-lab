@@ -1,6 +1,6 @@
 # Functions Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Practice writing functions
 - Explain calling functions from within other functions
